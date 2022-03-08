@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+.heading{
+    margin-bottom: 5%;
+}
+.LoginForm{
+    /* border: 1px solid black; */
+    width: 30%;
+    margin: auto;
+    background-color: antiquewhite;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
